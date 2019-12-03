@@ -21,9 +21,9 @@ const Content = (props) => {
 
     return (
         <div>
-            <Part part={props.part[0].part} excersice={props.part[0].exercise}/>
-            <Part part={props.part[1].part} excersice={props.part[1].exercise}/>
-            <Part part={props.part[2].part} excersice={props.part[2].exercise}/>
+            <Part part={props.parts[0].part} exercise={props.parts[0].exercise}/>
+            <Part part={props.parts[1].part} exercise={props.parts[1].exercise}/>
+            <Part part={props.parts[2].part} exercise={props.parts[2].exercise}/>
         </div>
     )
 }
@@ -45,7 +45,7 @@ const App = () => {
     const part3 = 'State of a component';
     const exercises3 = 14;
 
-    parts = [
+    const parts = [
         {
             'part': part1,
             'exercise': exercises1
