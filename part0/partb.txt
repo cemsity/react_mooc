@@ -1,0 +1,19 @@
+    Introduction
+    HTTP GET
+
+    Traditional web applications
+    Running application logic on the browser
+
+    Event handlers and Callback functions
+    Document Object Model or DOM
+    Manipulating the document-object from console z
+    XXXXXXXXXXXXXXXX
+    CSS <- 
+    Loading a page containing JavaScript - revised
+    Forms and HTTP POST<-
+    AJAX
+    Single page app
+    Javascript-libraries <--
+    Full stack -web development
+    Javascript fatigue
+    Exercises
